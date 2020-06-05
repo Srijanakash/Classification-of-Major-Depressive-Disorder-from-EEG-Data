@@ -3,7 +3,7 @@
 # Abstract
 
 Electroencephalogram (EEG) is an electrophysiological monitoring method to record the electrical activity of the brain. EEG is most often used to diagnose epilepsy, which causes abnormalities in EEG readings. It is also used to diagnose sleep disorders, depth of anesthesia, coma, encephalopathy, brain death, and depression. Being one of the prevalent psychiatric disorders, depressive episodes of major depressive disorder (MDD) is often misdiagnosed or overlooked. Therefore, identifying MDD at earlier stages of treatment could help to facilitate efficient and specific treatment. The proposed method used Wavelet Transformation (WT) to decompose the EEG data into corresponding frequency bands, like delta, theta, alpha, beta and gamma. A total of 119 participants were recruited by the University of Arizona from introductory psychology classes based on survey scores of the Beck Depression Inventory (BDI).
-In addition to the above methods, Firefly algorithm along with SVM classifier has been used as a wrapper method for feature selection and further fuzzy rule based classification has been done using subtractive clustering.
+Firefly algorithm along with SVM classifier has been used as a wrapper method for feature selection and further fuzzy rule based classification has been done using subtractive clustering.
 
 # Dataset
 
